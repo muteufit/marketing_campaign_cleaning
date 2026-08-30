@@ -39,4 +39,4 @@ git clone https://github.com/muteufit/marketing_campaign_cleaning.git
 cd marketing_campaign_cleaning
 
 # Install required packages
-pip install pandas
+pip install pandas numpy
